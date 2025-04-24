@@ -10,7 +10,7 @@ Predicting Customer Responses to Insurance Offers Using ML
 ![Rank](https://img.shields.io/badge/Rank-70%20of%202425-brightgreen?style=for-the-badge)
 ![Solo](https://img.shields.io/badge/Submission-Type%3A%20Solo-orange?style=for-the-badge)
 
-### Project Duration: Feb 1, 2025 - Mar 1, 2025
+### Project Duration: Jul 15, 2024 - Aug 1, 2024
 ---
 
 ## 🌟 Introduction
